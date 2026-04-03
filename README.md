@@ -6,7 +6,7 @@
 
 <img src="README_imgs/Charles.jpeg" alt="Image" width=400>
 
-### My name is Charles Bergenske. I am a student at the University of California, Santa Cruz, pursuing a Robotics Engineering B.S. :robot:
+### My name is Charles Bergenske. I am a student at the University of California, Santa Cruz, pursuing a Robotics Engineering B.S. with an Electrical Engineering Minor.  :robot:
 
 ### Some of my interests include:
 
