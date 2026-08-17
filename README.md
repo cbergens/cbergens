@@ -16,7 +16,7 @@
   
 - Control Theory 📈
 
-- Reinforcement Learning (Along with other types of machine learning! 💻🧠
+- Reinforcement Learning (Along with other types of machine learning!) 💻🧠
 
 Eventually, I would like to combine these interests, utilizing ML-based computer vision, control theory, and reinforcement learning in composition with other ML tools to build and engineer multi modal, socially-interactive robotics.
 
