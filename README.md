@@ -10,13 +10,15 @@
 
 ### Some of my interests include:
 
-- Robotics Oriented Computer Vision - Particularly that involving machine learning :desktop_computer: :eye:
+- Robotics Oriented Computer Vision 💻👁️
 
-- Control Theory - Again, particularly that involving machine learning :chart_with_upwards_trend: :robot:
+- Done Dynamics/Aviation ✈️
+  
+- Control Theory 📈
 
-- Machine Learning (ML) - Who could have guessed? :computer: :brain:
+- Reinforcement Learning (Along with other types of machine learning! 💻🧠
 
-Eventually, I would like to combine these interests, utilizing ML-based computer vision and control theory in composition with other ML tools to build and engineer multimodal, socially-interactive robotics.
+Eventually, I would like to combine these interests, utilizing ML-based computer vision, control theory, and reinforcement learning in composition with other ML tools to build and engineer multi modal, socially-interactive robotics.
 
 ### As a robotics engineer, I also hold skills in electrical, mechanical, and computer engineering. To view my full skillset, check out my ***[LinkedIn](https://www.linkedin.com/in/charles-bergenske-1b4123307)***!
 
