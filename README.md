@@ -40,8 +40,14 @@ Eventually, I would like to combine these interests, utilizing ML-based computer
 
 - Email :envelope:
 
-  cbergens@ucsc.edu
+  [cbergens@ucsc.edu](mailto: cbergens@ucsc.edu)
 
 - LinkedIn :link:
 
   ***[here](https://www.linkedin.com/in/charles-bergenske-1b4123307)***
+
+- Resume 📄
+
+  ***[here](https://github.com/cbergens/cbergens/blob/main/README_files/Charles_Bergenske_Resume.pdf)
+
+
