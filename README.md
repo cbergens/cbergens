@@ -40,7 +40,7 @@ Eventually, I would like to combine these interests, utilizing ML-based computer
 
 - Email :envelope:
 
-  [cbergens@ucsc.edu](mailto: cbergens@ucsc.edu)
+  cbergens@ucsc.edu
 
 - LinkedIn :link:
 
