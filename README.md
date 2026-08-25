@@ -48,6 +48,6 @@ Eventually, I would like to combine these interests, utilizing ML-based computer
 
 - Resume 📄
 
-  ***[here](https://github.com/cbergens/cbergens/blob/main/README_files/Charles_Bergenske_Resume.pdf)
+  ***[here](https://github.com/cbergens/cbergens/blob/main/README_files/Charles_Bergenske_Resume.pdf)***
 
 
