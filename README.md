@@ -1,7 +1,5 @@
 # Hello There! :wave:
 
-<img src="README_imgs/hello.gif">
-
 ## A Little Bit About Me
 
 <img src="README_imgs/Charles.jpeg" alt="Image" width=400>
